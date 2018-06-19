@@ -1,0 +1,401 @@
+LANG,ZONE,BP_NAME,SUBJ/OBJ,CONSTRUCTIONS,GROUP,VERB,PF/IMPF,CLASS,CLUSTER,NUM,DO/IO,PREP,CASE
+RUS,UPPER LIMB,рука,OBJ,мыть руки,A,мыть,IMPF,WASH,OTHER,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,раскинуть руки,B,раскинуть,PF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,связать руки,B,связать,PF,WRAP,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,заламывать руки,C,заламывать,IMPF,WRAP,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,пачкать руки,A,пачкать,IMPF,DIRTY,OTHER,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,размахивать руками,B,размахивать,IMPF,MOVEM,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,показать рукой,B,показать,PF,SHOW,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,махнуть рукой,C,махнуть,PF,MOVEM,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,дотянуться рукой,B,дотянуться,PF,MOVEM,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,вскинуть руку,B,вскинуть,PF,UP,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,рука,SUBJ,рука / руки дрожать,B,дрожать,IMPF,SHAKE,MOVEM,SG/PL,DO,-,NOM
+RUS,UPPER LIMB,рука,OBJ,вынимать руку / руки,B,вынимать,IMPF,OUT,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,целовать руку / руки,A,целовать,IMPF,TOUCH,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,сжать руку / руки,A,сжать,PF,TOUCH,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,махать рукой / руками,B,махать,IMPF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,помахать рукой / руками,B,помахать,PF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,рука,SUBJ,руки доходить,IDIOM,доходить,IMPF,IDIOM,IDIOM,PL,IO,-,NOM
+RUS,UPPER LIMB,рука,SUBJ,руки слушаться,IDIOM,слушаться,IMPF,IDIOM,IDIOM,PL,DO,-,NOM
+RUS,UPPER LIMB,рука,OBJ,протянуть руку ,IDIOM,протянуть,PF,IDIOM,IDIOM,SG,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,потирать руки,IDIOM,потирать,IMPF,IDIOM,IDIOM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,умывать руки,IDIOM,умывать,IMPF,IDIOM,IDIOM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,наложить руки,IDIOM,наложить,PF,IDIOM,IDIOM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,запачкать руки,IDIOM,запачкать,PF,IDIOM,IDIOM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,разводить руками,IDIOM,разводить,IMPF,IDIOM,IDIOM,PL,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,всплеснуть руками,IDIOM,всплеснуть,PF,IDIOM,IDIOM,PL,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,протянуть руку,B,протянуть,PF,MOVEM,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,потирать руки,C,потирать,IMPF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,рука,OBJ,разводить руками,B,разводить,IMPF,MOVEM,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,рука,OBJ,взять на руки,C,взять,PF,CARRY,PLACE,PL,IO,на,ACC
+RUS,UPPER LIMB,рука,OBJ,иметь на руках,IDIOM,иметь,IMPF,IDIOM,IDIOM,PL,IO,на,PREP
+RUS,UPPER LIMB,рука,OBJ,нести на руках,B,нести,IMPF,CARRY,PLACE,PL,IO,на,PREP
+RUS,UPPER LIMB,рука,OBJ,носить на руках,B,носить,IMPF,CARRY,PLACE,PL,IO,на,PREP
+RUS,UPPER LIMB,рука,OBJ,носить на руках ,IDIOM,носить,IMPF,IDIOM,IDIOM,PL,IO,на,PREP
+RUS,UPPER LIMB,рука,OBJ,держать на руках,C,держать,IMPF,CARRY,PLACE,PL,IO,на,PREP
+RUS,UPPER LIMB,рука,OBJ,быть на руку ,IDIOM,быть,IMPF,IDIOM,IDIOM,SG,IO,на,ACC
+RUS,UPPER LIMB,рука,OBJ,опираться на руку / руки,B,опираться,IMPF,LEAN,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,рука,OBJ,держать в руке / руках,C,держать,IMPF,CARRY,PLACE,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,взять в руку / руки,C,взять,PF,TAKE,MOVEM,SG/PL,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,вертеть в руке / руках,C,вертеть,IMPF,TURN,MOVEM,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,нести в руке / руках,C,нести,IMPF,CARRY,PLACE,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,сжимать в руке / руках,C,сжимать,IMPF,TOUCH,SENSE,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,сунуть в руку,C,сунуть,PF,MOVEM,MOVEM,SG,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,взять в руки ,C,взять,PF,TAKE,MOVEM,PL,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,быть в руках ,IDIOM,быть,IMPF,IDIOM,IDIOM,PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,попасть в руки,IDIOM,попасть,PF,IDIOM,IDIOM,PL,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,иметь в руках ,IDIOM,иметь,IMPF,IDIOM,IDIOM,PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,перейти в руки ,IDIOM,перейти,PF,IDIOM,IDIOM,PL,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,мять в руках,C,мять,IMPF,TURN,MOVEM,PL,IO,в,PREP
+RUS,UPPER LIMB,рука,OBJ,дать в руки,IDIOM,дать,PF,IDIOM,IDIOM,PL,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,дать в руки,C,дать,PF,PLACE,PLACE,PL,IO,в,ACC
+RUS,UPPER LIMB,рука,OBJ,вести под руку/руки,С,вести,IMPF,TOUCH,SENSE,SG/PL,IO,под,ACC
+RUS,UPPER LIMB,рука,OBJ,попадаться под руку ,IDIOM,попадаться,IMPF,IDIOM,IDIOM,SG,IO,под,ACC
+RUS,UPPER LIMB,рука,OBJ,иметь под рукой,IDIOM,иметь,IMPF,IDIOM,IDIOM,SG,IO,под,INSTR
+RUS,UPPER LIMB,рука,OBJ,взять под руку / руки,С,взять,PF,TOUCH,SENSE,SG/PL,IO,под,ACC
+RUS,UPPER LIMB,рука,OBJ,держаться за руку / руки,B,держаться,IMPF,TOUCH,SENSE,SG/PL,IO,за,ACC
+RUS,UPPER LIMB,рука,OBJ,выпасть из руки / рук,C,выпасть,PF,FREE,MOVEM,SG/PL,IO,за,GEN
+RUS,UPPER LIMB,рука,OBJ,схватить за руку,A,схватить,PF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,рука,OBJ,вести за руку,C,вести,IMPF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,рука,OBJ,взяться за руки ,IDIOM,взяться,PF,IDIOM,IDIOM,PL,IO,за,ACC
+RUS,UPPER LIMB,рука,OBJ,взяться за руки,C,взяться,PF,TOUCH,SENSE,PL,IO,за,ACC
+RUS,UPPER LIMB,рука,OBJ,выпустить из рук,C,выпустить,PF,FALL,MOVEM,PL,IO,из,GEN
+RUS,UPPER LIMB,рука,OBJ,переходить из рук (в руки),IDIOM,переходить,IMPF,FREE,MOVEM,PL,IO,из,GEN
+RUS,UPPER LIMB,рука,OBJ,вырваться из рук,IDIOM,вырваться,PF,IDIOM,IDIOM,PL,IO,из,GEN
+RUS,UPPER LIMB,рука,OBJ,вырвать из рук,C,вырваться,IMPF,FREE,MOVEM,PL,IO,из,GEN
+RUS,UPPER LIMB,рука,OBJ,взять из рук,C,взять,PF,OUT,MOVEM,PL,IO,из,GEN
+RUS,UPPER LIMB,рука,OBJ,прибрать к рукам,IDIOM,прибрать,PF,IDIOM,IDIOM,PL,IO,к,DAT
+RUS,UPPER LIMB,рука,OBJ,ударить по рукам,IDIOM,ударить,PF,BEAT,SENSE,PL,IO,по,DAT
+RUS,UPPER LIMB,рука,OBJ,ударить по руке / рукам,A,ударить,PF,BEAT,SENSE,SG/PL,IO,по,DAT
+RUS,UPPER LIMB,рука,OBJ,сходить с рук,IDIOM,сходить,IMPF,IDIOM,IDIOM,PL,IO,с,GEN
+RUS,UPPER LIMB,ладонь,OBJ,подставить ладонь / ладони,B,подставить,PF,SET,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,зажать ладонь / ладони,B,зажать,PF,TOUCH,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,оттирать ладонь / ладони,A,оттирать,IMPF,RASP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,потереть ладонь / ладони,A,B,PF,RASP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,раскрыть ладонь / ладони,B,раскрыть,PF,OPEN,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,открыть ладонь / ладони,B,открыть,PF,OPEN,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,приложить ладонь / ладони,B,приложить,PF,CLOSE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,закрыть ладонь / ладони,B,закрыть,PF,CLOSE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,положить ладонь / ладони,B,положить,PF,CLOSE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,приставить ладонь,B,приставить,PF,SET,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,протянуть ладонь,B,протянуть,PF,SET,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,поднести ладонь,B,поднести,PF,SET,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,ладонь,OBJ,вытереть ладонью / ладонями,B,вытереть,PF,RASP,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,прикрывать ладонью / ладонями,C,прикрывать,IMPF,CLOSE,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,упереться ладонью / ладонями,B,упереться,PF,LEAN,PLACE,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,закрыть ладонью / ладонями,C,закрыть,PF,CLOSE,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,прикрыть ладоню / ладонями,C,прикрыть,PF,CLOSE,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,накрыть ладонью / ладонями,C,накрыть,PF,CLOSE,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,провести ладонью,B,провести,PF,MOVEM,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,хлопнуть ладонью,C,хлопнуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,стукнуть ладонью,C,стукнуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,шлёпнуть ладонью,C,шлёпнуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,держать на ладони / ладонях,C,держать,IMPF,CARRY,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,высыпать на ладонь / ладони,C,высыпать,PF,PLACE,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,нести на ладони / ладонях,C,нести,IMPF,CARRY,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,лежать на ладони / ладонях,B,лежать,IMPF,LAY,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,опустить на ладонь / ладони,B,опустить,PF,PLACE,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,опираться на ладонь / ладони,B,опираться,IMPF,LEAN,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,чувствовать на ладони / ладонях,A,чувствовать,IMPF,SENSE,SENSE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,положить на ладонь,C,положить,PF,PLACE,PLACE,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,подкинуть на ладонь,C,подкинуть,PF,MOVEM,MOVEM,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,плюнуть на ладонь,C,плюнуть,PF,SPIT,OTHER,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,взвесить на ладони,C,взвесить,PF,PLACE,PLACE,SG,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,протянуть на ладони,C,протянуть,PF,MOVEM,MOVEM,SG,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,выплюнуть на ладонь,C,выплюнуть,PF,PLACE,PLACE,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,умещаться на ладони,C,умещаться,IMPF,LAY,PLACE,SG,IO,на,PREP
+RUS,UPPER LIMB,ладонь,OBJ,выложить на ладонь,C,выложить,PF,PLACE,PLACE,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,класть на ладонь,C,класть,IMPF,PLACE,PLACE,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,посадить на ладонь,B,посадить,PF,PLACE,PLACE,SG,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,поплевать на ладони,B,поплевать,PF,SPIT,OTHER,PL,IO,на,ACC
+RUS,UPPER LIMB,ладонь,OBJ,сжимать в ладони / ладонях,C,сжимать,IMPF,TOUCH,SENSE,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,ладонь,OBJ,набрать в ладонь / ладони,C,набрать,PF,TAKE,MOVEM,SG/PL,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,лежать в ладони / ладонях,C,лежать,IMPF,LAY,PLACE,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,ладонь,OBJ,взять в ладонь / ладони,C,взять,PF,TAKE,MOVEM,SG/PL,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,кашлянуть в ладонь,C,кашлянуть,PF,SPIT,OTHER,SG,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,поцеловать в ладонь,A,поцеловать,PF,TOUCH,SENSE,SG,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,хлопнуть в ладони,C,хлопнуть,PF,BEAT,SENSE,PL,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,ударить в ладони,C,ударить,PF,BEAT,SENSE,PL,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,растирать в ладонях,C,растирать,IMPF,TURN,MOVEM,PL,IO,в,PREP
+RUS,UPPER LIMB,ладонь,OBJ,бить в ладони,C,бить,IMPF,BEAT,SENSE,PL,IO,в,ACC
+RUS,UPPER LIMB,ладонь,OBJ,улыбнуться из-под ладоней,C,улыбнуться,PF,EMOT,SENSE,PL,IO,из-под,GEN
+RUS,UPPER LIMB,ладонь,OBJ,глядеть из-под ладони,C,глядеть,IMPF,SENSE,SENSE,SG,IO,из-под,GEN
+RUS,UPPER LIMB,ладонь,OBJ,вытащить из ладоней,C,вытащить,PF,OUT,MOVEM,PL,IO,из,GEN
+RUS,UPPER LIMB,ладонь,OBJ,чувствовать под ладонью / ладонями,A,чувствовать,IMPF,SENSE,SENSE,SG/PL,IO,под,INSTR
+RUS,UPPER LIMB,ладонь,OBJ,перекидывать с ладони (на ладонь),C cmplx,перекидывать,IMPF,MOVEM,MOVEM,SG,IO,с,GEN
+RUS,UPPER LIMB,кисть,OBJ,исколечить кисть / кисти,A,исколечить,PF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,кисть,OBJ,оторвать кисть / кисти,B,оторвать,PF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,кисть,OBJ,защитить кисть / кисти,A,защитить,PF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,кисть,OBJ,забинтовать кисть / кисти,A,забинтовать,PF,DRESS,OTHER,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,кисть,OBJ,отрезать кисть / кисти,B,отрезать,PF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,кисть,OBJ,отрубить кисть / кисти,B,отрубить,PF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,кисть,OBJ,согнуться в кисти / кистях,B,согнуться,PF,BEND,MOVEM,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,кисть,OBJ,чувствовать в кисти / кистях ,A,чувствовать,IMPF,SENSE,SENSE,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,кисть,OBJ,суживаться к кисти / кистям,B,суживаться,IMPF,DRESS DOWN,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,кисть,OBJ,съехать к кисти / кистям,B,съехать,PF,DRESS DOWN,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,кисть,OBJ,спускаться к кисти / кистям,B,спускаться,IMPF,DRESS DOWN,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,кисть,OBJ,ухватиться за кисть / кисти,A,ухватиться,PF,TOUCH,SENSE,SG/PL,IO,за,ACC
+RUS,UPPER LIMB,кисть,OBJ,поймать за кисть,B,поймать,PF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,кисть,OBJ,браться за кисть,B,браться,IMPF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,кисть,OBJ,спускаться до кистей,B,спускаться,IMPF,DRESS DOWN,MOVEM,PL,IO,до,GEN
+RUS,UPPER LIMB,кисть,OBJ,спускаться по кисть,B,спускаться,IMPF,DRESS DOWN,MOVEM,SG,IO,по,ACC
+RUS,UPPER LIMB,кисть,OBJ,снять с кисти / кистей,B,снять,PF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,кисть,OBJ,перехватить у кисти / кистей,B,перехватить,PF,DRESS,OTHER,SG/PL,IO,у,GEN
+RUS,UPPER LIMB,кисть,OBJ,свисать ниже кисти / кистей,B,свисать,IMPF,DRESS DOWN,MOVEM,SG/PL,IO,ниже,GEN
+RUS,UPPER LIMB,запястье,SUBJ,запястье / запястья ныть,A,запястье,IMPF,SENSE,SENSE,SG/PL,DO,-,NOM
+RUS,UPPER LIMB,запястье,SUBJ,запястье / запястья болеть,A,запястье,IMPF,SENSE,SENSE,SG/PL,DO,-,NOM
+RUS,UPPER LIMB,запястье,OBJ,надрезать запастье / запястья,A,надрезать,IMPF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,изогнуть запястье / запястья,B,изогнуть,IMPF,BEND,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,обвить запястье / запястья,B,обвить,PF,WRAP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,охватить запястье / запястья,B,охватить,PF,WRAP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,обернуть запястье / запястья,B,обернуть,PF,WRAP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,выламывать запястье / запястья,B,выламывать,IMPF,WRAP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,высвободить запястье / запястья,B,высвободить,PF,FREE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,заголить запястье / запястья,A,заголить,PF,BARE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,пощупать запястье / запястья,A,пощупать,PF,TOUCH,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,фиксировать запястье / запястья,A,фиксировать,IMPF,FIX,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,сгибать запястье / запястья,B,сгибать,PF,BEND,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,бинтовать запястье / запястья,A,бинтовать,IMPF,DRESS,OTHER,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,оголить запястье / запястья,A,оголить,PF,BARE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,открыть запястье / запястья,A,открыть,PF,BARE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,сжать запястье / запястья,A,сжать,PF,TOUCH,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,поцеловать запястье,A,поцеловать,IMPF,TOUCH,SENSE,SG,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,потирать запястье,B,потирать,IMPF,RASP,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,поймать запястье,B,поймать,PF,TOUCH,SENSE,SG,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,обжечь запястье,A,обжечь,PF,HURT,SENSE,SG,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,вскинуть запястье,B,вскинуть,PF,UP,MOVEM,SG,DO,-,ACC
+RUS,UPPER LIMB,запястье,OBJ,коснуться запястьем,A,коснуться,PF,TOUCH,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,запястье,OBJ,вцепиться в запястье / запястья,B,вцепиться,PF,TOUCH,SENSE,SG/PL,IO,в,ACC
+RUS,UPPER LIMB,запястье,OBJ,схватить в запястьях,A,схватить,PF,TOUCH,SENSE,PL,IO,в,PREP
+RUS,UPPER LIMB,запястье,OBJ,скрестить в запястьях,B,скрестить,PF,WRAP,MOVEM,PL,IO,в,PREP
+RUS,UPPER LIMB,запястье,OBJ,сковать в запястьях,C,сковать,PF,WRAP,MOVEM,PL,IO,в,PREP
+RUS,UPPER LIMB,запястье,OBJ,носить на запястье / запястьях,A,носить,IMPF,DRESS,OTHER,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,намотать на запястье / запястья,B,намотать,PF,DRESS,OTHER,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,застегнуть на запястье / запястьях,B,застегнуть,PF,DRESS,OTHER,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,сиять на запястье / запястьях,A,сиять,IMPF,LOC,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,чувствовать на запястье / запястьях,A,чувствовать,IMPF,SENSE,SENSE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,торчать на запястье / запястьях,A,торчать,IMPF,LOC,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,съехать на запястье / запястья,B,съехать,PF,DRESS DOWN,MOVEM,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,запястье,OBJ,смотреть на запястье / запястья,A,смотреть,IMPF,SENSE,SENSE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,запястье,OBJ,сомкнуть на запястье / запястьях,B,сомкнуть,PF,DRESS DOWN,MOVEM,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,надевать на запястье / запястья,A,надевать,IMPF,DRESS,OTHER,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,запястье,OBJ,обрамлять на запястье / запястьях,B,обрамлять,PF,DRESS DOWN,MOVEM,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,повесить на запястье / запястья,B,повесить,IMPF,DRESS DOWN,MOVEM,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,запястье,OBJ,располагаться на запястье / запястьях,A,располагаться,PF,LOC,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,поправлять на запястье / запястьях,A,поправлять,IMPF,DRESS,OTHER,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,запястье,OBJ,написать на запястье ,A,написать,PF,NO CLASS,OTHER,SG,IO,на,ACC
+RUS,UPPER LIMB,запястье,OBJ,хватать за запястье,B,хватать,IMPF,TOUCH,SENSE,SG/PL,IO,за,ACC
+RUS,UPPER LIMB,запястье,OBJ,стянуть с запястья / запястьев,B,стянуть,PF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,запястье,OBJ,сползать с запястья / запястьев,B,сползать,IMPF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,запястье,OBJ,свисать с запястья / запястьев,B,свисать,IMPF,DRESS DOWN,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,запястье,OBJ,перетянуть у запястья,B,перетянуть,PF,WRAP,MOVEM,SG,IO,у,GEN
+RUS,UPPER LIMB,запястье,OBJ,резать по запястью / запястьям,A,резать,IMPF,HURT,SENSE,SG/PL,IO,по,DAT
+RUS,UPPER LIMB,запястье,OBJ,постукивать по запястью,A,постукивать,IMPF,BEAT,SENSE,SG,IO,по,DAT
+RUS,UPPER LIMB,запястье,OBJ,погружаться по запястье,A,погружаться,IMPF,ORIENT,PLACE,SG,IO,по,ACC
+RUS,UPPER LIMB,запястье,OBJ,обвиваться вокруг запястья / запястьев,B,обвиваться,IMPF,WRAP,MOVEM,SG/PL,IO,вокруг,GEN
+RUS,UPPER LIMB,запястье,OBJ,прилегать к запястью / запястьям,A,прилегать,IMPF,GLUE,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,запястье,OBJ,прикреплять к запястью / запястьям,A,прикреплять,IMPF,GLUE,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,локоть,OBJ,продрать локоть / локти,B,продрать,PF,HURT,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,прижать локоть / локти,B,прижать,PF,GLUE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,согнуть локоть / локти,B,согнуть,PF,BEND,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,поднимать локоть / локти,B,поднимать,IMPF,UP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,выставить локоть / локти,B,выставить,PF,MOVEM,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,обнажить локоть / локти,A,обнажить,PF,BARE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,пожать локоть,B,пожать,PF,TOUCH,SENSE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,положить локти,B,положить,PF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,расставить локти,B,расставить,PF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,поставить локти,B,поставить,PF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,класть локти,C,класть,IMPF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,растопырить локти,B,растопырить,PF,MOVEM,MOVEM,PL,DO,-,ACC
+RUS,UPPER LIMB,локоть,OBJ,опереться локтём / локтями,B,опереться,PF,LEAN,PLACE,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,упереться локтём / локтями,B,упереться,PF,LEAN,PLACE,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,двигать локтём / локтями,B,двигать,IMPF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,чувствовать локтём / локтями,A,чувствовать,IMPF,SENSE,SENSE,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,касаться локтём / локтями,A,касаться,IMPF,TOUCH,SENSE,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,толкнуть локтем,B,толкнуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,подтолкнуть локтем,B,подтолкнуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,задеть локтем,B,задеть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,удариться локтем,A,удариться,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,ушибить локтем,A,ушибить,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,отодвинуть локтем,B,отодвинуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,пихнуть локтем,B,пихнуть,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,толкаться локтями,B,толкаться,IMPF,BEAT,SENSE,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,работать локтями,B,работать,IMPF,MOVEM,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,рахмахивать локтями,B,рахмахивать,IMPF,MOVEM,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,взмахивать локтями,B,взмахивать,IMPF,MOVEM,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,пихаться локтями,B,пихаться,IMPF,BEAT,SENSE,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,расталкивать локтями,B,расталкивать,IMPF,BEAT,SENSE,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,растолкать локтями,B,растолкать,PF,BEAT,SENSE,PL,DO,-,INSTR
+RUS,UPPER LIMB,локоть,OBJ,согнуть в локте / локтях,B,согнуть,PF,BEND,MOVEM,SG/PL,IO,в,PREP
+RUS,UPPER LIMB,локоть,OBJ,приподниматься на локте / локтях,B,приподниматься,IMPF,MOVEM,MOVEM,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,локоть,OBJ,опереться на локоть / локти,B,опереться,PF,LEAN,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,локоть,OBJ,упасть на локоть / локти,B,упасть,PF,LEAN,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,локоть,OBJ,лежать на локте,B,лежать,IMPF,LEAN,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,локоть,OBJ,засучить по локоть,A,засучить,PF,BARE+ORIENT,MOVEM,SG,IO,по,ACC
+RUS,UPPER LIMB,локоть,OBJ,обнажить по локоть,A,обнажить,PF,BARE+ORIENT,MOVEM,SG,IO,по,ACC
+RUS,UPPER LIMB,локоть,OBJ,быть по локоть,A,быть,IMPF,ORIENT,PLACE,SG,IO,по,ACC
+RUS,UPPER LIMB,локоть,OBJ,взять за локоть,A,взять,PF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,локоть,OBJ,схватить за локоть,A,схватить,PF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,локоть,OBJ,тронуть за локоть,A,тронуть,PF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,локоть,OBJ,придерживаться за локоть,A,придерживаться,IMPF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,локоть,OBJ,сжать за локоть ,C,сжать,PF,TOUCH,SENSE,SG,IO,за,ACC
+RUS,UPPER LIMB,локоть,OBJ,взять под локоть,C,взять,PF,TOUCH,SENSE,SG,IO,под,ACC
+RUS,UPPER LIMB,локоть,OBJ,поддерживать под локоть,C,поддерживать,IMPF,TOUCH,SENSE,SG,IO,под,ACC
+RUS,UPPER LIMB,локоть,OBJ,толкнуть под локоть,C,толкнуть,PF,TOUCH,SENSE,SG,IO,под,ACC
+RUS,UPPER LIMB,локоть,OBJ,подхватить под локоть,C,подхватить,PF,TOUCH,SENSE,SG,IO,под,ACC
+RUS,UPPER LIMB,плечо,OBJ,обнажить плечо / плечи,A,обнажить,PF,BARE,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,плечо,OBJ,приподнять плечо / плечи,B,приподнять,PF,UP,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,плечо,OBJ,подставить плечо / плечи,B,подставить,PF,LEAN,PLACE,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,плечо,OBJ,опустить плечо / плечи,B,опустить,PF,DOWN,MOVEM,SG/PL,DO,-,ACC
+RUS,UPPER LIMB,плечо,OBJ,подставить плечо ,IDIOM,подставить,PF,IDIOM,IDIOM,SG,DO,-,ACC
+RUS,UPPER LIMB,плечо,OBJ,коснуться плеча / плечей,A,коснуться,PF,TOUCH,SENSE,SG/PL,DO,-,GEN
+RUS,UPPER LIMB,плечо,OBJ,пошевелить плечом / плечами,B,пошевелить,PF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,шевельнуть плечом / плечами,B,шевельнуть,PF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,дёрнуть плечом / плечами,B,дёрнуть,PF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,поводить плечом / плечами,B,поводить,IMPF,MOVEM,MOVEM,SG/PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,задеть плечом,B,задеть,PF,TOUCH,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,удариться плечом,A,удариться,PF,BEAT,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,прислониться плечом,B,прислониться,PF,TOUCH,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,навалиться плечом,B,навалиться,PF,TOUCH,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,прижаться плечом,B,прижаться,PF,TOUCH,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,привалиться плечом,B,привалиться,PF,TOUCH,SENSE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,стоять плечом (к плечу),C cmplx,стоять,IMPF,STAY,PLACE,SG,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,пожать плечами,C,пожать,PF,SHAKE,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,передёрнуть плечами,C,передёрнуть,PF,SHAKE,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,повести плечами,C,повести,PF,SHAKE,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,пожимать плечами,C,пожимать,IMPF,SHAKE,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,поводить плечами,C,поводить,PF,SHAKE,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,вздрагивать плечами,C,вздрагивать,IMPF,SHAKE,MOVEM,PL,DO,-,INSTR
+RUS,UPPER LIMB,плечо,OBJ,толкнуть в плечо,B,толкнуть,PF,BEAT,SENSE,SG,IO,в,ACC
+RUS,UPPER LIMB,плечо,OBJ,вскинуть на плечо,C,вскинуть,PF,CARRY,PLACE,SG,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,нести на плече / на плечах,B,нести,IMPF,CARRY,PLACE,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,плечо,OBJ,операться на плечо / на плечи,B,операться,IMPF,CARRY,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,положить на плечо / плечи,B,положить,PF,CARRY,PLACE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,поправить на плече / на плечах,B,поправить,PF,DRESS,OTHER,SG/PL,IO,на,PREP
+RUS,UPPER LIMB,плечо,OBJ,упасть на плечо / на плечи,B,упасть,PF,FALL,MOVEM,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,накинуть на плечи,C,накинуть,PF,DRESS,OTHER,PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,взвалить на плечи,IDIOM,взвалить,PF,IDIOM,IDIOM,PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,ложиться на плечи,IDIOM,ложиться,PF,IDIOM,IDIOM,PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,операться на плечи,IDIOM,операться,IMPF,IDIOM,IDIOM,PL,IO,на,ACC
+RUS,UPPER LIMB,плечо,OBJ,сидеть на плечах,IDIOM,сидеть,IMPF,IDIOM,IDIOM,PL,IO,на,PREP
+RUS,UPPER LIMB,плечо,OBJ,похлопать по плечу,C,похлопать,PF,BEAT,SENSE,SG,IO,по,DAT
+RUS,UPPER LIMB,плечо,OBJ,трепать по плечу,C,трепать,IMPF,BEAT,SENSE,SG,IO,по,DAT
+RUS,UPPER LIMB,плечо,OBJ,распустить по плечам,C,распустить,PF,ORIENT,PLACE,PL,IO,по,DAT
+RUS,UPPER LIMB,плечо,OBJ,рассыпаться по плечам,C,рассыпаться,PF,ORIENT,PLACE,PL,IO,по,DAT
+RUS,UPPER LIMB,плечо,OBJ,сбросить с плеч,IDIOM,сбросить,PF,IDIOM,IDIOM,PL,IO,с,GEN
+RUS,UPPER LIMB,плечо,OBJ,свалиться с плеч,IDIOM,свалиться,PF,IDIOM,IDIOM,PL,IO,с,GEN
+RUS,UPPER LIMB,плечо,OBJ,сорвать с плеча,IDIOM,сорвать,PF,IDIOM,IDIOM,SG,IO,с,GEN
+RUS,UPPER LIMB,плечо,OBJ,рубить с плеча,IDIOM,рубить,IMPF,IDIOM,IDIOM,SG,IO,с,GEN
+RUS,UPPER LIMB,плечо,OBJ,снять с плеча / плеч,A,снять,PF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,плечо,OBJ,тронуть за плечо / плечи,A,тронуть,PF,TOUCH,SENSE,SG/PL,IO,за,ACC
+RUS,UPPER LIMB,плечо,OBJ,схватить за плечо / плечи,A,схватить,PF,TOUCH,SENSE,SG/PL,IO,за,ACC
+RUS,UPPER LIMB,плечо,OBJ,трясти за плечи / плечи,A,трясти,IMPF,TOUCH,SENSE,SG/PL,IO,за,ACC
+RUS,UPPER LIMB,плечо,OBJ,обнять за плечи,C,обнять,PF,TOUCH,SENSE,PL,IO,за,ACC
+RUS,UPPER LIMB,плечо,OBJ,иметь за плечами,IDIOM,иметь,IMPF,IDIOM,IDIOM,PL,IO,за,INSTR
+RUS,UPPER LIMB,плечо,OBJ,иметь за плечами,C,иметь,IMPF,STATE,PLACE,PL,IO,за,INSTR
+RUS,UPPER LIMB,плечо,OBJ,взять за плечи,A,взять,PF,TOUCH,SENSE,PL,IO,за,ACC
+RUS,UPPER LIMB,плечо,OBJ,перекинуть через плечо,C,перекинуть,PF,CARRY,PLACE,SG,IO,через,ACC
+RUS,UPPER LIMB,плечо,OBJ,бросить через плечо,C,бросить,PF,CARRY,PLACE,SG,IO,через,ACC
+RUS,UPPER LIMB,плечо,OBJ,заглянуть через плечо,C,заглянуть,PF,SENSE,SENSE,SG,IO,через,ACC
+RUS,UPPER LIMB,плечо,OBJ,оглянуться через плечо,C,оглянуться,PF,SENSE,SENSE,SG,IO,через,ACC
+RUS,UPPER LIMB,плечо,OBJ,дотронуться до плеча / плеч,A,дотронуться,PF,TOUCH,SENSE,SG/PL,IO,до,GEN
+RUS,UPPER LIMB,плечо,OBJ,прижаться к плечу / плечам,A,прижаться,PF,TOUCH,SENSE,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,ноготь,OBJ,наносить на ноготь / ногти,A,наносить,IMPF,DRESS,OTHER,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,щупать на ноготь,IDIOM,щупать,IMPF,IDIOM,IDIOM,SG,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,царапать на ногте,A,царапать,IMPF,PAINT,MOVEM,SG,IO,на,PREP
+RUS,UPPER LIMB,ноготь,OBJ,царапать ногтём,C,царапать,IMPF,PAINT,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,ноготь,OBJ,усаживать на ноготь,B,усаживать,IMPF,DRESS,OTHER,SG,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,уронить на ноготь,A,уронить,PF,FALL,MOVEM,SG,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,показать на ноготь,A,показать,PF,SHOW,MOVEM,SG,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,показать на ногте,A,показать,PF,SHOW,MOVEM,SG,IO,на,PREP
+RUS,UPPER LIMB,ноготь,OBJ,смотреть на ногти,A,смотреть,IMPF,SENSE,SENSE,PL,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,указывать на ногти,A,указывать,IMPF,SHOW,MOVEM,PL,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,приняться за ногти,C,приняться,PF,COSM,OTHER,PL,IO,на,ACC
+RUS,UPPER LIMB,ноготь,OBJ,ломить под ногтем / ногтями,C,ломить,IMPF,SENSE,SENSE,SG/PL,IO,под,INSTR
+RUS,UPPER LIMB,ноготь,OBJ,помыть под ногтями,C,помыть,PF,WASH,OTHER,PL,IO,под,INSTR
+RUS,UPPER LIMB,ноготь,OBJ,захватить под ногти,C,захватить,PF,TOUCH,SENSE,PL,IO,под,ACC
+RUS,UPPER LIMB,ноготь,OBJ,прижать к ногтю / ногтям,A,прижать,PF,GLUE,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,ноготь,OBJ,прирости к ногтю / ногтям,A,прирости,PF,GLUE,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,ноготь,OBJ,приклеивать к ногтю / ногтям,A,приклеивать,IMPF,GLUE,MOVEM,SG/PL,IO,к,DAT
+RUS,UPPER LIMB,ноготь,OBJ,прижать к ногтю (И),IDIOM,прижать,PF,IDIOM,IDIOM,SG,IO,к,DAT
+RUS,UPPER LIMB,ноготь,OBJ,цепляться за ногти,A,цепляться,IMPF,TOUCH,SENSE,PL,IO,за,ACC
+RUS,UPPER LIMB,ноготь,OBJ,ухаживать за ногтями,A,ухаживать,IMPF,COSM,OTHER,PL,IO,за,INSTR
+RUS,UPPER LIMB,ноготь,OBJ,покончить с ногтями,C,покончить,PF,COSM,OTHER,PL,IO,с,INSTR
+RUS,UPPER LIMB,ноготь,OBJ,сходить с ногтя / ногтей,A,сходить,PF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,ноготь,OBJ,стереть с ногтя / ногтей,A,стереть,PF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,ноготь,OBJ,сковыривать с ногтя / ногтей,A,сковыривать,IMPF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,ноготь,OBJ,постукивать о ноготь,B,постукивать,IMPF,BEAT,SENSE,SG,IO,о,ACC
+RUS,UPPER LIMB,ноготь,OBJ,пробовать о ноготь,C,пробовать,IMPF,TASTE,SENSE,SG,IO,о,ACC
+RUS,UPPER LIMB,ноготь,OBJ,мазнуть по ногтю / ногтям,B,мазнуть,PF,COSM,OTHER,SG/PL,IO,по,DAT
+RUS,UPPER LIMB,палец,OBJ,надеть на палец / пальцы,A,надеть,PF,DRESS,OTHER,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,дуть на палец / пальцы,A,дуть,IMPF,SENSE,SENSE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,наматывать на палец / пальцы,A,наматывать,IMPF,DRESS,OTHER,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,смотреть на палец / пальцы,A,смотреть,IMPF,SENSE,SENSE,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,плюнуть на палец / пальцы,C,плюнуть,PF,SPIT,OTHER,SG/PL,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,накручивать на палец,B,накручивать,IMPF,WRAP,MOVEM,SG,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,крутить на пальце,B,крутить,IMPF,TURN,MOVEM,SG,IO,на,PREP
+RUS,UPPER LIMB,палец,OBJ,ступать на пальцы,C,ступать,IMPF,GO,MOVEM,PL,IO,на,ACC
+RUS,UPPER LIMB,палец,OBJ,объяснить на пальцах,IDIOM,объяснить,PF,IDIOM,IDIOM,PL,IO,на,PREP
+RUS,UPPER LIMB,палец,OBJ,вертеть на пальцах,B,вертеть,IMPF,TURN,MOVEM,PL,IO,на,PREP
+RUS,UPPER LIMB,палец,OBJ,держать в пальцах,C,держать,IMPF,CARRY,PLACE,PL,IO,в,PREP
+RUS,UPPER LIMB,палец,OBJ,мять в пальцах,C,мять,IMPF,TURN,MOVEM,PL,IO,в,PREP
+RUS,UPPER LIMB,палец,OBJ,ощущать в пальцах,A,ощущать,IMPF,SENSE,SENSE,PL,IO,в,PREP
+RUS,UPPER LIMB,палец,OBJ,высосать из пальца,IDIOM,высосать,PF,IDIOM,IDIOM,SG,IO,из,GEN
+RUS,UPPER LIMB,палец,OBJ,считать по пальцам,IDIOM,считать,IMPF,IDIOM,IDIOM,PL,IO,по,DAT
+RUS,UPPER LIMB,палец,OBJ,остаться без пальца / пальцев,B,остаться,IMPF,HURT,SENSE,SG/PL,IO,без,GEN
+RUS,UPPER LIMB,палец,OBJ,стряхивать с пальца / пальцев,A,стряхивать,IMPF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,палец,OBJ,снять с пальца / пальцев,A,снять,IMPF,REMOVE,MOVEM,SG/PL,IO,с,GEN
+RUS,UPPER LIMB,палец,OBJ,смотреть сквозь пальцы,IDIOM,смотреть,IMPF,IDIOM,IDIOM,PL,IO,сквозь,ACC
+RUS,UPPER LIMB,палец,OBJ,смотреть сквозь пальцы,B,смотреть,IMPF,SENSE,SENSE,PL,IO,сквозь,ACC
+RUS,UPPER LIMB,палец,OBJ,утекать сквозь пальцы,C,утекать,IMPF,THROUGH,MOVEM,PL,IO,сквозь,ACC
+RUS,UPPER LIMB,палец,OBJ,проходить сквозь пальцы,C,проходить,IMPF,THROUGH,MOVEM,PL,IO,сквозь,ACC
+RUS,UPPER LIMB,палец,OBJ,пропускать сквозь пальцы,C,пропускать,IMPF,THROUGH,MOVEM,PL,IO,сквозь,ACC
+RUS,UPPER LIMB,палец,OBJ,обвести вокруг пальца,IDIOM,обвести,PF,IDIOM,IDIOM,SG,IO,вокруг,GEN
+RUS,UPPER LIMB,палец,OBJ,царапать пальцем,C,царапать,IMPF,PAINT,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,палец,OBJ,ковырять пальцем,C,ковырять,IMPF,PAINT,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,палец,OBJ,рисовать пальцем,C,рисовать,IMPF,PAINT,MOVEM,SG,DO,-,INSTR
+RUS,UPPER LIMB,палец,OBJ,сосать палец,C,сосать,IMPF,TASTE,SENSE,SG,DO,-,ACC
+RUS,LOWER LIMB,нога,OBJ,вскочить на ноги,C,вскочить,PF,UP,MOVEM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,подняться на ноги,C,подняться,PF,UP,MOVEM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,встать на ноги,B,встать,PF,UP,MOVEM,PL,IO,на,PREP
+RUS,LOWER LIMB,нога,OBJ,держать на ногах,B,держать,IMPF,STAY,PLACE,PL,IO,на,PREP
+RUS,LOWER LIMB,нога,OBJ,стоять на ногах,C,стоять,IMPF,STAY,PLACE,PL,IO,на,PREP
+RUS,LOWER LIMB,нога,OBJ,быть на ногах,C,быть,IMPF,STAY,PLACE,PL,IO,на,PREP
+RUS,LOWER LIMB,нога,OBJ,поставить на ноги (И),IDIOM,поставить,PF,IDIOM,IDIOM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,поставить на ноги,C,поставить,PF,UP,MOVEM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,подняться на ноги (И),IDIOM,подняться,PF,IDIOM,IDIOM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,подняться на ноги,C,подняться,PF,UP,MOVEM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,удержаться на ногах,C,удержаться,PF,STAY,PLACE,PL,IO,на,PREP
+RUS,LOWER LIMB,нога,OBJ,устоять на ногах,C,устоять,PF,STAY,PLACE,PL,IO,на,PREP
+RUS,LOWER LIMB,нога,OBJ,становиться на ноги (И),IDIOM,становиться,IMPF,UP,MOVEM,PL,IO,на,ACC
+RUS,LOWER LIMB,нога,OBJ,повалиться в ноги (И),IDIOM,повалиться,IMPF,IDIOM,IDIOM,PL,IO,в,ACC
+RUS,LOWER LIMB,нога,OBJ,повалиться в ноги (И),C,повалиться,IMPF,DOWN,MOVEM,PL,IO,в,ACC
+RUS,LOWER LIMB,нога,OBJ,сидеть в ногах,C,сидеть,IMPF,SIT,MOVEM,PL,IO,в,PREP
+RUS,LOWER LIMB,нога,OBJ,валяться в ногах (И),IDIOM,валяться,IMPF,IDIOM,IDIOM,PL,IO,в,PREP
+RUS,LOWER LIMB,нога,OBJ,валяться в ногах (И),C,валяться,IMPF,LAY,PLACE,PL,IO,в,PREP
+RUS,LOWER LIMB,нога,OBJ,идти в ногу (нога в ногу),C cmplx,идти,IMPF,GO,MOVEM,SG,IO,в,ACC
+RUS,LOWER LIMB,нога,OBJ,глядеть под ноги,A,глядеть,IMPF,SENSE,SENSE,PL,IO,под,ACC
+RUS,LOWER LIMB,нога,OBJ,хрустеть под ногами,C,хрустеть,IMPF,SENSE,SENSE,PL,IO,под,ISNTR
+RUS,LOWER LIMB,нога,OBJ,смотреть под ноги,A,смотреть,IMPF,SENSE,SENSE,PL,IO,под,ACC
+RUS,LOWER LIMB,нога,OBJ,путаться под ногами (И),IDIOM,путаться,IMPF,IDIOM,IDIOM,PL,IO,под,INSTR
+RUS,LOWER LIMB,нога,OBJ,сплюнуть под ноги,C,сплюнуть,PF,SPIT,OTHER,PL,IO,под,ACC
+RUS,LOWER LIMB,нога,OBJ,чувствовать под ногой / ногами,A,чувствовать,IMPF,SENSE,SENSE,SG/PL,IO,под,INSTR
+RUS,LOWER LIMB,нога,OBJ,сшибить с ног,C,сшибить,PF,DOWN,MOVEM,PL,IO,с,GEN
+RUS,LOWER LIMB,нога,OBJ,сбить с ног,C,сбить,PF,DOWN,MOVEM,PL,IO,с,GEN
+RUS,LOWER LIMB,нога,OBJ,валиться с ног,C,валиться,IMPF,DOWN,MOVEM,PL,IO,с,GEN
+RUS,LOWER LIMB,нога,OBJ,переминаться с ноги (на ногу),C cmplx,переминаться,IMPF,MOVEM,MOVEM,SG,IO,с,GEN
+RUS,LOWER LIMB,нога,OBJ,переступить с ноги (на ногу),C cmplx,переступить,IMPF,MOVEM,MOVEM,SG,IO,с,GEN
+RUS,LOWER LIMB,нога,OBJ,упасть к ногам (И),IDIOM,упасть,PF,IDIOM,IDIOM,PL,IO,к,DAT
+RUS,LOWER LIMB,нога,OBJ,упасть к ногам (И),C,упасть,PF,DOWN,MOVEM,PL,IO,к,DAT
+RUS,LOWER LIMB,нога,OBJ,пасть к ногам,C,пасть,IMPF,DOWN,MOVEM,PL,IO,к,DAT
+RUS,LOWER LIMB,нога,OBJ,кинуться к ногам,C,кинуться,PF,DOWN,MOVEM,PL,IO,к,DAT
+RUS,LOWER LIMB,нога,OBJ,упасть к ногам,C,упасть,PF,DOWN,MOVEM,PL,IO,к,DAT
+RUS,LOWER LIMB,нога,OBJ,броситься к ногам,C,броситься,IMPF,DOWN,MOVEM,PL,IO,к,DAT
+RUS,LOWER LIMB,нога,OBJ,лежать у ног,C,лежать,IMPF,LAY,PLACE,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,быть у ног,C,быть,IMPF,LAY+ORIENT,PLACE,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,биться у ног,C,биться,IMPF,LAY,PLACE,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,улечься у ног,C,улечься,PF,LAY,PLACE,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,умереть у ног,C,умереть,PF,LAY+STATE,PLACE,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,сидеть у ног,C,сидеть,IMPF,SIT,MOVEM,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,валяться у ног,C,валяться,IMPF,LAY,PLACE,PL,IO,у,GEN
+RUS,LOWER LIMB,нога,OBJ,уходить из-под ног,IDIOM,уходить,IMPF,IDIOM,IDIOM,PL,IO,из-под,GEN
